@@ -2,11 +2,11 @@
 Treball Manovich Tània
 
 
-# Assaig de dos casos d'hibridació
+# Assaig de dos casos d'hibridació des de la perspectiva de Manovich
 
 
 ## Autora:
 Tània Besó Vidal
 
 ## Data:
-15 maig 2026
+Maig 2026
