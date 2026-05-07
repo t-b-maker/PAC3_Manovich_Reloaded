@@ -2,17 +2,15 @@
 Treball Manovich Tània
 
 
-# Assaig de dos casos d'hibridació des de la perspectiva de Manovich
+# Assaig de dos casos d'hibridació digital des de la perspectiva de Manovich
 
 
-**Autora:**
-Tània Besó Vidal
+**Autora:** Tània Besó Vidal
 
-**Data:**
-Maig 2026
+**Data:** Maig 2026
 
 
-## Plantejament
+## Introducció
 
 
 
@@ -25,4 +23,4 @@ Maig 2026
 
 
 ### Referències i bibliografia:
-
+-Manovich, Lev. (2013). **El Software toma el mando.** Barcelona: Editorial UOC.
