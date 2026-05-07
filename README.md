@@ -8,3 +8,5 @@ Treball Manovich Tània
 ## Autora:
 Tània Besó Vidal
 
+## Data:
+15 maig 2026
