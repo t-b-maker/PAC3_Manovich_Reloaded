@@ -23,4 +23,4 @@ Treball Manovich Tània
 
 
 ### Referències i bibliografia:
--Manovich, Lev. (2013). **El Software toma el mando.** Barcelona: Editorial UOC.
+- Manovich, Lev. (2013). **El Software toma el mando.** Barcelona: Editorial UOC.
