@@ -17,8 +17,9 @@ Treball Manovich Tània
 
 ## Introducció
 
-Lev Manovich, al seu llibre *El software toma el mando* (2013), descriu la hibridació dels mitjans com un procés 
+Lev Manovich, al seu llibre *El software toma el mando* (2013), defineix la hibridació dels mitjans com la fusió de tècniques, llenguatges i interfícies de diferents mitjans gràcies al programari. A diferència del multimèdia, on diversos elements simplement conviuen en un mateix espai, la hibridació genera noves experiències digitals que no es poden entendre separant els mitjans originals, donant lloc a noves lògiques, nous estils i noves formes de relació amb el món i amb els altres.
 
+En aquest assaig s'analitzen dos exemples d'hibridació digital: *Pokémon GO* i *Twitch* com a plataforma de joc col·lectiu. En tots dos casos, transformen la relació entre el jugador, l'espai i la comunitat a través del programari, cosa que permet noves formes d'interacció i participació dins dels entorns digitals.
 
 
 ## Cas 1: Pokémon GO
