@@ -5,8 +5,8 @@ Treball Manovich Tània
 # Assaig de dos casos d'hibridació digital des de la perspectiva de Manovich
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/App-augmented-reality-game-gps-163042.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="300"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/App-augmented-reality-game-gps-163042.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="400"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="400"/>
 </p>
 
 
