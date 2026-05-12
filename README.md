@@ -6,6 +6,8 @@ Treball Manovich Tània
 
 ![Pokémon GO](https://upload.wikimedia.org/wikipedia/commons/3/36/App-augmented-reality-game-gps-163042.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
+![Twitch](https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 **Autora:** Tània Besó Vidal
 
 **Data:** Maig 2026
