@@ -17,6 +17,8 @@ Treball Manovich Tània
 
 ## Introducció
 
+Lev Manovich, al seu llibre *El software toma el mando* (2013), descriu la hibridació dels mitjans com un procés 
+
 
 
 ## Cas 1: Pokémon GO
