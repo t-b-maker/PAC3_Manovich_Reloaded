@@ -4,6 +4,7 @@ Treball Manovich Tània
 
 # Assaig de dos casos d'hibridació digital des de la perspectiva de Manovich
 
+![Pokémon GO](https://upload.wikimedia.org/wikipedia/commons/3/36/App-augmented-reality-game-gps-163042.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 **Autora:** Tània Besó Vidal
 
