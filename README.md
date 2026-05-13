@@ -63,3 +63,7 @@ En conclusió, Twitch i el joc col·lectiu via xat és un exemple d'hibridació 
 - Mimzy. (2016). *Pokemon Go Application on Smartphone Screen* [Fotografia]. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:App-augmented-reality-game-gps-163042.jpg (Domini públic)
 - Twitch Interactive. (s. d.). *Twitch logo* [Imatge SVG]. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Twitch_logo.svg (Domini públic)
 
+
+---
+
+*Aquest document està publicat sota llicència Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)*
