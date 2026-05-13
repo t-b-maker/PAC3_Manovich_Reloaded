@@ -55,4 +55,11 @@ En conclusió, Twitch i el joc col·lectiu via xat és un exemple d'hibridació 
 
 
 ### Referències i bibliografia:
-- Manovich, Lev. (2013). **El Software toma el mando.** Barcelona: Editorial UOC.
+- Manovich, Lev. (2013). *El Software toma el mando*. Editorial UOC.
+- Niantic. (2016). *Pokémon GO*. https://pokemongolive.com
+- Wikipedia. (2024). *Pokémon GO*. https://ca.wikipedia.org/wiki/Pok%C3%A9mon_Go
+- Twitch Interactive. (2011). *Twitch*. https://www.twitch.tv
+- Wikipedia. (2014). *Twitch Plays Pokémon*. https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon
+- Mimzy. (2016). *Pokemon Go Application on Smartphone Screen* [Fotografia]. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:App-augmented-reality-game-gps-163042.jpg (Domini públic)
+- Twitch Interactive. (s. d.). *Twitch logo* [Imatge SVG]. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Twitch_logo.svg (Domini públic)
+
